@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Java Full Stack & Web Development**
 - 🌱 I’m learning **React.js, Spring Boot, DBMS, OS, Cloud Computing**
 - 💬 Ask me about **Java, Web Development, DBMS, Git/GitHub**
-- 📫 Reach me at **your-email@gmail.com**
+- 📫 Reach me at **srikaran170@gmail.com**
 - ⚡ Fun fact: *I build projects daily to improve my skills*
 
 ---
@@ -26,7 +26,7 @@
 
 ## 🌐 **Socials**
 <p>
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/karan170" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/YOUR-ID" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://youtube.com/@YOURCHANNEL" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 <a href="https://t.me/YOURID" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
