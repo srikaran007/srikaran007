@@ -3,12 +3,12 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **Java Full Stack & Web Development**  
-- 🌱 I’m learning **React.js, Spring Boot, DBMS, OS, Cloud Computing**  
-- 💬 Ask me about **Java, Web Development, DBMS, Git/GitHub**  
-- 📫 Reach me at **srikaran170@gmail.com**  
-- ⚡ Fun fact: *I build projects daily to improve my skills*  
+##  About Me  
+-  I’m currently working on **Java Full Stack & Web Development**  
+-  I’m learning **React.js, Spring Boot, DBMS, OS, Cloud Computing**  
+-  Ask me about **Java, Web Development, DBMS, Git/GitHub**  
+-  Reach me at **srikaran170@gmail.com**  
+-  Fun fact: *I build projects daily to improve my skills*  
 
 ---
 
