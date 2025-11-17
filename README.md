@@ -20,7 +20,7 @@
 ---
 
 ## 🔗 **Portfolio**
-➡ Your portfolio link here (if not ready, leave it blank)
+➡  https://srikaran007.github.io/Portfolio/
 
 ---
 
